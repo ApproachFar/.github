@@ -9,7 +9,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## 欢迎来到 AF社区🍿
+# 欢迎来到 AF社区🍿
+
 ## 🌈 ApproachFar $\rightarrow$ 止於至善
 名的由来
 ## 🙋‍ 组织简介
